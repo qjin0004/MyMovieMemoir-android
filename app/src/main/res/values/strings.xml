@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MyMovieMemoir</string>
+
+    <string-array name="AuState">
+        <item>QLD</item>
+        <item>VIC</item>
+        <item>SA</item>
+        <item>TAS</item>
+        <item>NSW</item>
+        <item>WA</item>
+    </string-array>
+
+    <string-array name="sortItem">
+        <item>Watch Date</item>
+        <item>Rating Score</item>
+        <item>Public Rating</item>
+    </string-array>
+
+
+    <string-array name="reportYearSpinner">
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+    </string-array>
+
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="facebook_app_id">711112933050404</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+<!--    <string name="name1">Mandatory field 1<font color='#FF0000'>*</font></string>-->
+
+</resources>

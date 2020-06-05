@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homepage"
+        android:title="Home Page">
+    </item>
+
+    <item
+        android:id="@+id/movieSearch"
+        android:title="Movie Search">
+    </item>
+
+    <item
+        android:id="@+id/movieMemoir"
+        android:title="Movie Memoir">
+    </item>
+
+    <item
+        android:id="@+id/watchlist"
+        android:title="Watchlist">
+    </item>
+
+    <item
+        android:id="@+id/watchlistFirebaseButton"
+        android:title="Watchlist FireBase">
+    </item>
+
+    <item
+        android:id="@+id/reports"
+        android:title="Reports">
+    </item>
+
+    <item
+        android:id="@+id/map"
+        android:title="Map">
+    </item>
+
+</menu>

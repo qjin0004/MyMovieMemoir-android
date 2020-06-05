@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "241947896083",
+    "firebase_url": "https://koi5046mymoviememoir.firebaseio.com",
+    "project_id": "koi5046mymoviememoir",
+    "storage_bucket": "koi5046mymoviememoir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241947896083:android:5ad29864161bbbdc6852e6",
+        "android_client_info": {
+          "package_name": "com.example.mymoviememoir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241947896083-nhqkb8aj34ds9golne8pff78lai5o6ag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mymoviememoir",
+            "certificate_hash": "f550621671abcb3c41b21717b10140dbe53bbb44"
+          }
+        },
+        {
+          "client_id": "241947896083-vtkdei542fgc84k42tn2jsivmktlqb6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTEEIPkn7h__kh2iZfXKV1Kwr0pN_t1wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241947896083-vtkdei542fgc84k42tn2jsivmktlqb6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
